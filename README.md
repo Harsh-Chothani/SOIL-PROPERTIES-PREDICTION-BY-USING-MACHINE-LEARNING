@@ -5,19 +5,17 @@ The Scorpan model, adapted from Hans Jenny's framework, provides an empirical qu
 
 S = f(s,c,o,r,p,a,n) 
 where,
-S = soil classes or attributes
-f = function
-s = soil, other or previously measured properties of the soil at a point
-c = climate, climatic properties of the environment at a point
-o = organisms, including land cover and natural vegetation or fauna or human activity
-r = relief, topography, landscape attributes
-p = parent material, lithology
-a = age, the time factor
-n = spatial or geographic position
+- s = soil, other or previously measured properties of the soil at a point
+- c = climate, climatic properties of the environment at a point
+- o = organisms, including land cover and natural vegetation or fauna or human activity
+- r = relief, topography, landscape attributes
+- p = parent material, lithology
+- a = age, the time factor
+- n = spatial or geographic position
 
-Tools and Software
-Python Programming Language
-GIS Software:
-Erdas
-QGIS
-ArcMap
+## Tools and Software
+- Python Programming Language
+- GIS Software:
+- Erdas Imagine
+- QGIS
+- ArcMap
